@@ -11,7 +11,7 @@ const FirstSection = () => {
             <div className="w-10 h-[2px] bg-red-500 mr-3"></div>Doçuras Feitas
             com Carinho.
           </div>
-          <h1 className="text-[70px] leading-[1.1] font-semibold mb-4 mt-5">
+          <h1 className="lg:text-[70px] text-[50px]  leading-[1.1] font-semibold mb-4 mt-5">
             DAYSE CHOCOLATES
             <br />
           </h1>
