@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Dayse-Chocolates-app 🍫 <br><br>
+Uma página simples para uma doceira, com seções de "Sobre Mim", fotos dos produtos e um formulário para contato.<br><br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📋 Descrição <br><br>
 
-## Available Scripts
+O Dayse-Chocolates-app é uma aplicação web desenvolvida para uma doceira, permitindo que clientes conheçam mais sobre o negócio, visualizem fotos dos produtos e entrem em contato através de um formulário. Com um design simples e elegante, a aplicação oferece uma experiência agradável para os visitantes. Construída com React e estilizada com Tailwind CSS, o projeto visa demonstrar de forma clara e atrativa os serviços e produtos oferecidos.<br><br>
 
-In the project directory, you can run:
+## 🛠️ Tecnologias Utilizadas <br><br>
 
-### `npm start`
+- React
+- Tailwind CSS <br><br>
+## 💡 Conceitos Aprendidos e Aplicados <br><br> 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Criação de componentes em React para organizar e modularizar a interface
+- Utilização de Tailwind CSS para estilização rápida e eficiente
+- Estruturação de uma página web com seções dedicadas para informações sobre o negócio, galeria de fotos e formulário de contato
+- Implementação de formulários para facilitar o contato direto com clientes <br><br>
+## 🚀 Funcionalidades <br><br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Seção "Sobre Mim" para apresentar a doceira e seu negócio
+- Galeria de fotos dos produtos para visualização pelos clientes
+- Formulário de contato para facilitar a comunicação com clientes <br><br>
+## 🖥️ Como Executar o Projeto <br><br>
 
-### `npm test`
+Faça o download ou clone o repositório:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+``` git clone https://github.com/seu-usuario/Dayse-Chocolates-app.git ``` <br><br>
+Navegue até o diretório do projeto:
 
-### `npm run build`
+``` cd Dayse-Chocolates-app ``` <br><br>
+Instale as dependências:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+``` npm install ``` <br><br>
+Inicie a aplicação:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+``` npm start ``` <br><br>
+Abra o navegador e acesse:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+``` http://localhost:3000 ``` <br><br>
